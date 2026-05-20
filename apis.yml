@@ -41,6 +41,8 @@ apis:
       - type: Documentation
         url: https://www.darpa.mil/news
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/darpa
   - type: Website
     url: https://www.darpa.mil
   - type: About
