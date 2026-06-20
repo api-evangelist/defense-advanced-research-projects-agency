@@ -11,7 +11,7 @@ description: >-
   expose public developer APIs but does publish an RSS news feed and program
   information through its website.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 position: Consuming
 specificationVersion: '0.19'
