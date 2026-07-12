@@ -41,6 +41,8 @@ apis:
       - type: Documentation
         url: https://www.darpa.mil/news
 common:
+  - type: DomainSecurity
+    url: security/defense-advanced-research-projects-agency-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/darpa
   - type: Website
@@ -51,6 +53,8 @@ common:
     url: https://www.darpa.mil/news
   - type: Opportunities
     url: https://www.darpa.mil/work-with-us/opportunities
+  - url: https://www.darpa.mil/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
