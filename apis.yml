@@ -11,7 +11,19 @@ description: >-
   expose public developer APIs but does publish an RSS news feed and program
   information through its website.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/defense-advanced-research-projects-agency.png
 access: 3rd-Party
 position: Consuming
 specificationVersion: '0.19'
