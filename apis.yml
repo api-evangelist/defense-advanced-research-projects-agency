@@ -40,7 +40,7 @@ position: Consuming
 specificationVersion: '0.23'
 kind: government
 tags:
-  - Federal-Government
+  - Federal Government
   - Defense
   - Research
   - Department of Defense
@@ -53,6 +53,7 @@ tags_raw:
   - Department of Defense
   - DARPA
   - Innovation
+  - Federal-Government
 created: '2024-12-03'
 modified: '2026-04-28'
 apis:
